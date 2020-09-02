@@ -4,7 +4,7 @@
   KeepSourceLinks="true"
   SourceFolders="file:///C:/Bug Projects/98971/HTML Files"
   ImportTopics="content"
-  LastImport="2020-09-01T21:39:03.1872200-07:00"
+  LastImport="2020-09-01T21:39:33.1272750-07:00"
   ImportTopicsLocation="Content/">
   <Files>
     <Url
@@ -16,13 +16,10 @@
   <SkippedSourceFiles />
   <GeneratedFiles>
     <Url
-      Source="../../Content/HTML Files/Getting Started.htm"
-      TimeStamp="9/1/2020 9:39:00 PM" />
-    <Url
       Source="../../Content/HTML Files/Lists.htm"
-      TimeStamp="9/1/2020 9:39:00 PM" />
+      TimeStamp="9/1/2020 9:39:30 PM" />
     <Url
       Source="../TOCs/HTML Files.fltoc"
-      TimeStamp="9/1/2020 9:39:02 PM" />
+      TimeStamp="9/1/2020 9:39:32 PM" />
   </GeneratedFiles>
 </HtmlImport>
