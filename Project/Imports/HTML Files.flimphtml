@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  ImportResourcesLocation="NoImport"
+  KeepSourceLinks="true"
+  SourceFolders="file:///C:/Bug Projects/98971/HTML Files"
+  ImportTopics="content"
+  LastImport="2020-09-01T21:39:03.1872200-07:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="../../../../../../98971/HTML Files"
+      AbsoluteSource="file:///C:/Bug Projects/98971/HTML Files" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/HTML Files/Getting Started.htm"
+      TimeStamp="9/1/2020 9:39:00 PM" />
+    <Url
+      Source="../../Content/HTML Files/Lists.htm"
+      TimeStamp="9/1/2020 9:39:00 PM" />
+    <Url
+      Source="../TOCs/HTML Files.fltoc"
+      TimeStamp="9/1/2020 9:39:02 PM" />
+  </GeneratedFiles>
+</HtmlImport>
